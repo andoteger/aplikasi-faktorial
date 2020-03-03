@@ -1,0 +1,13 @@
+.soal {
+    border: 2px  solid black;
+}
+
+.container h3 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container .hasil h3 {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
